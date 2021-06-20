@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\Intense_Wizardy\Intense_Wizardy\bin\Debug\netcoreapp3.1\Intense_Wizardy.exe
+C:\Users\Jackson\Desktop\Intense_Wizardy\Intense_Wizardy\bin\Debug\netcoreapp3.1\Intense_Wizardy.deps.json
+C:\Users\Jackson\Desktop\Intense_Wizardy\Intense_Wizardy\bin\Debug\netcoreapp3.1\Intense_Wizardy.runtimeconfig.json
+C:\Users\Jackson\Desktop\Intense_Wizardy\Intense_Wizardy\bin\Debug\netcoreapp3.1\Intense_Wizardy.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\Intense_Wizardy\Intense_Wizardy\bin\Debug\netcoreapp3.1\Intense_Wizardy.dll
+C:\Users\Jackson\Desktop\Intense_Wizardy\Intense_Wizardy\bin\Debug\netcoreapp3.1\Intense_Wizardy.pdb
+C:\Users\Jackson\Desktop\Intense_Wizardy\Intense_Wizardy\obj\Debug\netcoreapp3.1\Intense_Wizardy.csproj.AssemblyReference.cache
+C:\Users\Jackson\Desktop\Intense_Wizardy\Intense_Wizardy\obj\Debug\netcoreapp3.1\Intense_Wizardy.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\Intense_Wizardy\Intense_Wizardy\obj\Debug\netcoreapp3.1\Intense_Wizardy.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\Intense_Wizardy\Intense_Wizardy\obj\Debug\netcoreapp3.1\Intense_Wizardy.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Intense_Wizardy\Intense_Wizardy\obj\Debug\netcoreapp3.1\Intense_Wizardy.dll
+C:\Users\Jackson\Desktop\Intense_Wizardy\Intense_Wizardy\obj\Debug\netcoreapp3.1\Intense_Wizardy.pdb
+C:\Users\Jackson\Desktop\Intense_Wizardy\Intense_Wizardy\obj\Debug\netcoreapp3.1\Intense_Wizardy.genruntimeconfig.cache
